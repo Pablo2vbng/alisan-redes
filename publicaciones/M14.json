@@ -1,0 +1,26 @@
+{
+ "id": "M14",
+ "fecha": "2026-12-19",
+ "hora": "10:15",
+ "tema": "Regalo de Navidad",
+ "instagram": {
+  "connector": "instagram",
+  "account": "17841413212234201",
+  "action": "create_image_post",
+  "params": {
+   "image_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M14_1.jpg",
+   "caption": "Su regalo también cuenta 🎁\n\nEste año, que en el calcetín haya algo para él: premios de Edgard & Cooper, un juguete nuevo o una cama calentita.\n\nVen a por su regalo a la tienda. Hoy sábado abrimos de 10:00 a 14:00.\n\n#EdgardCooper #EdgardAndCooper #AlisanMascotas #Benigànim #TiendaDeMascotas #Navidad #RegalosParaMascotas #PremiosParaPerros"
+  }
+ },
+ "google_business": {
+  "connector": "google_my_business",
+  "account": "locations/18208214426792222344",
+  "action": "create_local_post",
+  "params": {
+   "summary": "Su regalo también cuenta 🎁\n\nEste año, que en el calcetín haya algo para él: premios de Edgard & Cooper, un juguete nuevo o una cama calentita.\n\nVen a por su regalo a la tienda. Hoy sábado abrimos de 10:00 a 14:00.",
+   "photo_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M14_1.jpg",
+   "cta_type": "CALL",
+   "language_code": "es"
+  }
+ }
+}

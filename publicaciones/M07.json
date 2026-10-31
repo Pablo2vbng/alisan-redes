@@ -1,0 +1,26 @@
+{
+ "id": "M07",
+ "fecha": "2026-11-23",
+ "hora": "13:15",
+ "tema": "Amity para gato esterilizado",
+ "instagram": {
+  "connector": "instagram",
+  "account": "17841413212234201",
+  "action": "create_image_post",
+  "params": {
+   "image_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M07_1.jpg",
+   "caption": "¿Tu gato está esterilizado? 🐱\n\nTras la esterilización, muchos gatos necesitan menos calorías. Amity tiene una receta pensada para ellos: Super Premium Low Grain de salmón, baja en cereales.\n\nRecuerda: agua fresca siempre a mano y la ración ajustada a su peso.\n\nResérvalo por WhatsApp o por teléfono (635 48 96 01): lo recoges en tienda o te lo llevamos a casa en Benigànim y alrededores.\n\n#Amity #AmityPetFood #AlisanMascotas #Benigànim #TiendaDeMascotas #GatoEsterilizado #ComidaParaGatos #Gatos"
+  }
+ },
+ "google_business": {
+  "connector": "google_my_business",
+  "account": "locations/18208214426792222344",
+  "action": "create_local_post",
+  "params": {
+   "summary": "¿Tu gato está esterilizado? 🐱\n\nTras la esterilización, muchos gatos necesitan menos calorías. Amity tiene una receta pensada para ellos: Super Premium Low Grain de salmón, baja en cereales.\n\nRecuerda: agua fresca siempre a mano y la ración ajustada a su peso.\n\nResérvalo por WhatsApp o por teléfono (635 48 96 01): lo recoges en tienda o te lo llevamos a casa en Benigànim y alrededores.",
+   "photo_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M07_1.jpg",
+   "cta_type": "CALL",
+   "language_code": "es"
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "id": "M25",
+ "fecha": "2027-01-26",
+ "hora": "13:15",
+ "tema": "Amity para gato adulto",
+ "instagram": {
+  "connector": "instagram",
+  "account": "17841413212234201",
+  "action": "create_image_post",
+  "params": {
+   "image_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M25_1.jpg",
+   "caption": "Salmón y arroz, para gato adulto 🐟\n\nAmity Premium tiene una receta de salmón y arroz para gatos adultos.\n\nCombínala con comida húmeda de vez en cuando: muchos gatos beben poco y así toman más agua.\n\nResérvalo por WhatsApp o por teléfono (635 48 96 01): lo recoges en tienda o te lo llevamos a casa en Benigànim y alrededores.\n\n#Amity #AmityPetFood #AlisanMascotas #Benigànim #TiendaDeMascotas #ComidaParaGatos #Gatos"
+  }
+ },
+ "google_business": {
+  "connector": "google_my_business",
+  "account": "locations/18208214426792222344",
+  "action": "create_local_post",
+  "params": {
+   "summary": "Salmón y arroz, para gato adulto 🐟\n\nAmity Premium tiene una receta de salmón y arroz para gatos adultos.\n\nCombínala con comida húmeda de vez en cuando: muchos gatos beben poco y así toman más agua.\n\nResérvalo por WhatsApp o por teléfono (635 48 96 01): lo recoges en tienda o te lo llevamos a casa en Benigànim y alrededores.",
+   "photo_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M25_1.jpg",
+   "cta_type": "CALL",
+   "language_code": "es"
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "id": "M12",
+ "fecha": "2026-12-12",
+ "hora": "10:15",
+ "tema": "Las dos gamas de Amity",
+ "instagram": {
+  "connector": "instagram",
+  "account": "17841413212234201",
+  "action": "create_image_post",
+  "params": {
+   "image_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M12_1.jpg",
+   "caption": "¿Premium o Low Grain? 🤔\n\nAmity tiene dos gamas:\n\n➡️ Premium: recetas con proteína animal y arroz.\n➡️ Super Premium Low Grain: baja en cereales.\n\nLa mejor depende de tu animal, su edad y su actividad. Pregúntanos en tienda y te ayudamos a elegir. Hoy sábado, de 10:00 a 14:00.\n\n#Amity #AmityPetFood #AlisanMascotas #Benigànim #TiendaDeMascotas #PiensoParaPerros #ComidaParaGatos"
+  }
+ },
+ "google_business": {
+  "connector": "google_my_business",
+  "account": "locations/18208214426792222344",
+  "action": "create_local_post",
+  "params": {
+   "summary": "¿Premium o Low Grain? 🤔\n\nAmity tiene dos gamas:\n\n➡️ Premium: recetas con proteína animal y arroz.\n➡️ Super Premium Low Grain: baja en cereales.\n\nLa mejor depende de tu animal, su edad y su actividad. Pregúntanos en tienda y te ayudamos a elegir. Hoy sábado, de 10:00 a 14:00.",
+   "photo_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M12_1.jpg",
+   "cta_type": "CALL",
+   "language_code": "es"
+  }
+ }
+}

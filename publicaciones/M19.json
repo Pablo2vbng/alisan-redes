@@ -1,0 +1,26 @@
+{
+ "id": "M19",
+ "fecha": "2027-01-05",
+ "hora": "13:15",
+ "tema": "¿Cachorro por Reyes?",
+ "instagram": {
+  "connector": "instagram",
+  "account": "17841413212234201",
+  "action": "create_image_post",
+  "params": {
+   "image_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M19_1.jpg",
+   "caption": "¿Llega un cachorro a casa? 🐶\n\nSi lo habéis decidido en familia, enhorabuena. Para empezar con buen pie:\n\n✔️ Pienso de cachorro, como Libra Puppy.\n✔️ Cama, comedero y bebedero.\n✔️ Collar o arnés, correa e identificación.\n✔️ Juguetes para morder.\n\nPásate y te preparamos el kit de bienvenida.\n\n#Libra #AffinityLibra #AlisanMascotas #Benigànim #TiendaDeMascotas #Cachorros #PerroNuevo #PiensoParaPerros"
+  }
+ },
+ "google_business": {
+  "connector": "google_my_business",
+  "account": "locations/18208214426792222344",
+  "action": "create_local_post",
+  "params": {
+   "summary": "¿Llega un cachorro a casa? 🐶\n\nSi lo habéis decidido en familia, enhorabuena. Para empezar con buen pie:\n\n✔️ Pienso de cachorro, como Libra Puppy.\n✔️ Cama, comedero y bebedero.\n✔️ Collar o arnés, correa e identificación.\n✔️ Juguetes para morder.\n\nPásate y te preparamos el kit de bienvenida.",
+   "photo_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M19_1.jpg",
+   "cta_type": "CALL",
+   "language_code": "es"
+  }
+ }
+}

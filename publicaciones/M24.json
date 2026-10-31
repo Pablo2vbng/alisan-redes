@@ -1,0 +1,26 @@
+{
+ "id": "M24",
+ "fecha": "2027-01-23",
+ "hora": "10:15",
+ "tema": "Edgard & Cooper Puppy",
+ "instagram": {
+  "connector": "instagram",
+  "account": "17841413212234201",
+  "action": "create_image_post",
+  "params": {
+   "image_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M24_1.jpg",
+   "caption": "Para crecer con buen pie 🐶\n\nEdgard & Cooper Puppy es su pienso para cachorros, con pato y pollo.\n\nUn consejo: reparte su ración en varias tomas al día y mantén siempre el mismo horario.\n\nResérvalo por WhatsApp o por teléfono (635 48 96 01): lo recoges en tienda o te lo llevamos a casa en Benigànim y alrededores.\n\n#EdgardCooper #EdgardAndCooper #AlisanMascotas #Benigànim #TiendaDeMascotas #Cachorros #PiensoParaPerros"
+  }
+ },
+ "google_business": {
+  "connector": "google_my_business",
+  "account": "locations/18208214426792222344",
+  "action": "create_local_post",
+  "params": {
+   "summary": "Para crecer con buen pie 🐶\n\nEdgard & Cooper Puppy es su pienso para cachorros, con pato y pollo.\n\nUn consejo: reparte su ración en varias tomas al día y mantén siempre el mismo horario.\n\nResérvalo por WhatsApp o por teléfono (635 48 96 01): lo recoges en tienda o te lo llevamos a casa en Benigànim y alrededores.",
+   "photo_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M24_1.jpg",
+   "cta_type": "CALL",
+   "language_code": "es"
+  }
+ }
+}

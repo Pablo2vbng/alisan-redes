@@ -1,0 +1,26 @@
+{
+ "id": "M05",
+ "fecha": "2026-11-16",
+ "hora": "13:15",
+ "tema": "Premios para educar",
+ "instagram": {
+  "connector": "instagram",
+  "account": "17841413212234201",
+  "action": "create_image_post",
+  "params": {
+   "image_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M05_1.jpg",
+   "caption": "Educar es más fácil con un buen premio 🦴\n\nTres trucos para que funcione:\n\n1. Premios pequeños, para que no se llene.\n2. Sesiones de 2 o 3 minutos.\n3. Premia justo en el momento en que lo hace bien.\n\nTenemos los premios para perro de Edgard & Cooper, en barritas y bocaditos. Ven a por ellos a la tienda.\n\n#EdgardCooper #EdgardAndCooper #AlisanMascotas #Benigànim #TiendaDeMascotas #EducacionCanina #PremiosParaPerros #Cachorros"
+  }
+ },
+ "google_business": {
+  "connector": "google_my_business",
+  "account": "locations/18208214426792222344",
+  "action": "create_local_post",
+  "params": {
+   "summary": "Educar es más fácil con un buen premio 🦴\n\nTres trucos para que funcione:\n\n1. Premios pequeños, para que no se llene.\n2. Sesiones de 2 o 3 minutos.\n3. Premia justo en el momento en que lo hace bien.\n\nTenemos los premios para perro de Edgard & Cooper, en barritas y bocaditos. Ven a por ellos a la tienda.",
+   "photo_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M05_1.jpg",
+   "cta_type": "CALL",
+   "language_code": "es"
+  }
+ }
+}

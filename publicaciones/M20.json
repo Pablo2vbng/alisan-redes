@@ -1,0 +1,26 @@
+{
+ "id": "M20",
+ "fecha": "2027-01-09",
+ "hora": "10:15",
+ "tema": "Qué significa carne fresca",
+ "instagram": {
+  "connector": "instagram",
+  "account": "17841413212234201",
+  "action": "create_image_post",
+  "params": {
+   "image_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M20_1.jpg",
+   "caption": "¿Qué significa «carne fresca» en la etiqueta? 🏷️\n\nQue la carne entra en la receta sin deshidratar. Como tiene mucha agua, pierde peso al cocinarse, así que conviene mirar también el ingrediente que va justo después.\n\nEdgard & Cooper, por ejemplo, elabora sus recetas con carne y pescado frescos.\n\n¿Te ayudamos a leer la etiqueta del pienso que usas ahora? Tráela a la tienda y la miramos contigo.\n\n#EdgardCooper #EdgardAndCooper #AlisanMascotas #Benigànim #TiendaDeMascotas #EtiquetaPienso #ConsejosMascotas #PiensoParaPerros"
+  }
+ },
+ "google_business": {
+  "connector": "google_my_business",
+  "account": "locations/18208214426792222344",
+  "action": "create_local_post",
+  "params": {
+   "summary": "¿Qué significa «carne fresca» en la etiqueta? 🏷️\n\nQue la carne entra en la receta sin deshidratar. Como tiene mucha agua, pierde peso al cocinarse, así que conviene mirar también el ingrediente que va justo después.\n\nEdgard & Cooper, por ejemplo, elabora sus recetas con carne y pescado frescos.\n\n¿Te ayudamos a leer la etiqueta del pienso que usas ahora? Tráela a la tienda y la miramos contigo.",
+   "photo_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M20_1.jpg",
+   "cta_type": "CALL",
+   "language_code": "es"
+  }
+ }
+}

@@ -1,0 +1,26 @@
+{
+ "id": "M22",
+ "fecha": "2027-01-16",
+ "hora": "10:15",
+ "tema": "Pelo en invierno",
+ "instagram": {
+  "connector": "instagram",
+  "account": "17841413212234201",
+  "action": "create_image_post",
+  "params": {
+   "image_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M22_1.jpg",
+   "caption": "Pelo bonito también en invierno ✨\n\nCalefacción, frío y menos sol pueden dejar el pelo más apagado. Ayuda cepillarlo a menudo y una buena alimentación.\n\nBravery tiene recetas de salmón y de arenque, y lleva aceite de salmón entre sus ingredientes.\n\nVen a verlo a la tienda. Hoy sábado, de 10:00 a 14:00.\n\n#Bravery #BraveryPetFood #AlisanMascotas #Benigànim #TiendaDeMascotas #CuidadoDelPelo #PiensoParaPerros #GrainFree"
+  }
+ },
+ "google_business": {
+  "connector": "google_my_business",
+  "account": "locations/18208214426792222344",
+  "action": "create_local_post",
+  "params": {
+   "summary": "Pelo bonito también en invierno ✨\n\nCalefacción, frío y menos sol pueden dejar el pelo más apagado. Ayuda cepillarlo a menudo y una buena alimentación.\n\nBravery tiene recetas de salmón y de arenque, y lleva aceite de salmón entre sus ingredientes.\n\nVen a verlo a la tienda. Hoy sábado, de 10:00 a 14:00.",
+   "photo_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M22_1.jpg",
+   "cta_type": "CALL",
+   "language_code": "es"
+  }
+ }
+}

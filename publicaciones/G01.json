@@ -1,0 +1,26 @@
+{
+ "id": "G01",
+ "fecha": "2026-12-03",
+ "hora": "13:15",
+ "tema": "Gosbi Life",
+ "instagram": {
+  "connector": "instagram",
+  "account": "17841413212234201",
+  "action": "create_image_post",
+  "params": {
+   "image_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/G01_1.jpg",
+   "caption": "Cocinado a baja temperatura 🍗\n\nGosbi Life es su pienso a base de pollo, enriquecido con frutas, verduras y aceite de pescado.\n\nGosbi no se vende online: resérvalo por WhatsApp o por teléfono (635 48 96 01) y recógelo en tienda, o te lo llevamos a casa en Benigànim y alrededores.\n\n#Gosbi #GosbiPetFood #AlisanMascotas #Benigànim #TiendaDeMascotas #PiensoNatural #PiensoParaPerros"
+  }
+ },
+ "google_business": {
+  "connector": "google_my_business",
+  "account": "locations/18208214426792222344",
+  "action": "create_local_post",
+  "params": {
+   "summary": "Cocinado a baja temperatura 🍗\n\nGosbi Life es su pienso a base de pollo, enriquecido con frutas, verduras y aceite de pescado.\n\nGosbi no se vende online: resérvalo por WhatsApp o por teléfono (635 48 96 01) y recógelo en tienda, o te lo llevamos a casa en Benigànim y alrededores.",
+   "photo_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/G01_1.jpg",
+   "cta_type": "CALL",
+   "language_code": "es"
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "id": "M02",
+ "fecha": "2026-11-06",
+ "hora": "13:15",
+ "tema": "Bravery, presentación",
+ "instagram": {
+  "connector": "instagram",
+  "account": "17841413212234201",
+  "action": "create_carousel_post",
+  "params": {
+   "image_urls": [
+    "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M02_1.jpg",
+    "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M02_2.jpg",
+    "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M02_3.jpg",
+    "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M02_4.jpg",
+    "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M02_5.jpg"
+   ],
+   "caption": "Sin cereales y con una sola proteína 🐾\n\nAsí es Bravery, de Alinatur, una empresa española con más de 70 años en alimentación animal. Tiene pienso para perro y gato en pollo, salmón, cordero, arenque y cerdo ibérico.\n\nDesliza y conócela 👉\n\n¿Dudas de cuál le va? Escríbenos por WhatsApp al 635 48 96 01 con la edad, el peso y la actividad de tu animal.\n\n#Bravery #BraveryPetFood #AlisanMascotas #Benigànim #TiendaDeMascotas #GrainFree #SinCereales #PiensoParaPerros #ComidaParaGatos"
+  }
+ },
+ "google_business": {
+  "connector": "google_my_business",
+  "account": "locations/18208214426792222344",
+  "action": "create_local_post",
+  "params": {
+   "summary": "Sin cereales y con una sola proteína: así es Bravery, de Alinatur, una empresa española con más de 70 años en alimentación animal. Tiene pienso para perro y gato en pollo, salmón, cordero, arenque y cerdo ibérico.\n\n¿Dudas de cuál le va? Llámanos o escríbenos al 635 48 96 01 con la edad, el peso y la actividad de tu animal.",
+   "photo_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M02_1.jpg",
+   "cta_type": "CALL",
+   "language_code": "es"
+  }
+ }
+}

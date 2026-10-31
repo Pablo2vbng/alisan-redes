@@ -1,0 +1,26 @@
+{
+ "id": "G07",
+ "fecha": "2027-01-14",
+ "hora": "13:15",
+ "tema": "Reserva tu Gosbi",
+ "instagram": {
+  "connector": "instagram",
+  "account": "17841413212234201",
+  "action": "create_image_post",
+  "params": {
+   "image_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/G07_1.jpg",
+   "caption": "¿Se te acaba el saco de Gosbi? 🐾\n\nResérvalo por WhatsApp o por teléfono, al 635 48 96 01, y elige:\n\n🏪 Lo recoges en la tienda, en la C/ del Sol, 10.\n🛵 O te lo llevamos a casa, en Benigànim y alrededores.\n\nGosbi no se vende online, así que te lo damos en mano y con consejo incluido.\n\n#Gosbi #GosbiPetFood #AlisanMascotas #Benigànim #TiendaDeMascotas #ServicioADomicilio #ComercioLocal"
+  }
+ },
+ "google_business": {
+  "connector": "google_my_business",
+  "account": "locations/18208214426792222344",
+  "action": "create_local_post",
+  "params": {
+   "summary": "¿Se te acaba el saco de Gosbi? 🐾\n\nResérvalo por WhatsApp o por teléfono, al 635 48 96 01, y elige:\n\n🏪 Lo recoges en la tienda, en la C/ del Sol, 10.\n🛵 O te lo llevamos a casa, en Benigànim y alrededores.\n\nGosbi no se vende online, así que te lo damos en mano y con consejo incluido.",
+   "photo_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/G07_1.jpg",
+   "cta_type": "CALL",
+   "language_code": "es"
+  }
+ }
+}

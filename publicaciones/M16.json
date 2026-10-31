@@ -1,0 +1,26 @@
+{
+ "id": "M16",
+ "fecha": "2026-12-26",
+ "hora": "10:15",
+ "tema": "Amity para cachorros",
+ "instagram": {
+  "connector": "instagram",
+  "account": "17841413212234201",
+  "action": "create_image_post",
+  "params": {
+   "image_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M16_1.jpg",
+   "caption": "Para los que acaban de llegar 🐶\n\nUn cachorro necesita un pienso específico para crecer. Amity Premium tiene recetas para cachorro y para gatito.\n\nSi te llega uno estos días, pásate y te contamos qué necesita las primeras semanas.\n\nResérvalo por WhatsApp o por teléfono (635 48 96 01): lo recoges en tienda o te lo llevamos a casa en Benigànim y alrededores.\n\n#Amity #AmityPetFood #AlisanMascotas #Benigànim #TiendaDeMascotas #Cachorros #Gatitos #PiensoParaPerros"
+  }
+ },
+ "google_business": {
+  "connector": "google_my_business",
+  "account": "locations/18208214426792222344",
+  "action": "create_local_post",
+  "params": {
+   "summary": "Para los que acaban de llegar 🐶\n\nUn cachorro necesita un pienso específico para crecer. Amity Premium tiene recetas para cachorro y para gatito.\n\nSi te llega uno estos días, pásate y te contamos qué necesita las primeras semanas.\n\nResérvalo por WhatsApp o por teléfono (635 48 96 01): lo recoges en tienda o te lo llevamos a casa en Benigànim y alrededores.",
+   "photo_url": "https://raw.githubusercontent.com/Pablo2vbng/alisan-redes/main/marcas-nov-ene/M16_1.jpg",
+   "cta_type": "CALL",
+   "language_code": "es"
+  }
+ }
+}
